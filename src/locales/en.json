@@ -1,0 +1,40 @@
+{
+  "search": {
+    "title": "Search",
+    "placeholder": "Enter name, tag, email...",
+    "empty_header": "We didn't find anyone",
+    "empty_body": "Try to adjust your request",
+    "error_banner": "Can't update data. Check your internet connection.",
+    "loading_banner": "Just a second, loading...",
+    "failed_header": "Some mastermind broke everything",
+    "failed_body": "We will try to fix it quickly",
+    "failed_refresh": "Try again",
+    "empty_department": "There are no employees in this department"
+  },
+  "sort": {
+    "title": "Sorting",
+    "alphabet": "By alphabet",
+    "birthday": "By birthday"
+  },
+  "departments": {
+    "all": "All",
+    "android": "Android",
+    "ios": "iOS",
+    "design": "Design",
+    "management": "Management",
+    "qa": "QA",
+    "back_office": "Back office",
+    "frontend": "Frontend",
+    "hr": "HR",
+    "pr": "PR",
+    "backend": "Backend",
+    "support": "Support",
+    "analytics": "Analytics"
+  },
+  "profile": {
+    "not_found": "User not found",
+    "age_one": "{{ageOst}} year old",
+    "age_few": "{{ageOst}} years old",
+    "age_many": "{{ageOst}} years old"
+  }
+}

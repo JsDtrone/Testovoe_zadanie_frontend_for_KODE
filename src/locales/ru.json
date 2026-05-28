@@ -1,0 +1,40 @@
+{
+  "search": {
+    "title": "Поиск",
+    "placeholder": "Введи имя, тег, почту...",
+    "empty_header": "Мы никого не нашли",
+    "empty_body": "Попробуй скорректировать запрос",
+    "error_banner": "Не могу обновить данные. Проверь соединение с интернетом.",
+    "loading_banner": "Секундочку, гружусь...",
+    "failed_header": "Какой-то сверхразум все сломал",
+    "failed_body": "Постараемся быстро починить",
+    "failed_refresh": "Попробовать снова",
+    "empty_department": "В этом департаменте нет сотрудников"
+  },
+  "sort": {
+    "title": "Сортировка",
+    "alphabet": "По алфавиту",
+    "birthday": "По дню рождения"
+  },
+  "departments": {
+    "all": "Все",
+    "android": "Android",
+    "ios": "iOS",
+    "design": "Дизайн",
+    "management": "Менеджмент",
+    "qa": "QA",
+    "back_office": "Бэк-офис",
+    "frontend": "Frontend",
+    "hr": "HR",
+    "pr": "PR",
+    "backend": "Backend",
+    "support": "Поддержка",
+    "analytics": "Аналитика"
+  },
+  "profile": {
+    "not_found": "Пользователь не найден",
+    "age_one": "{{ageOst}} год",
+    "age_few": "{{ageOst}} года",
+    "age_many": "{{ageOst}} лет"
+  }
+}
